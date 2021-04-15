@@ -1,0 +1,6 @@
+C:\Users\afgm9\OneDrive\Escritorio\TRIM 2\Programación\1\1\bin\Release\1.exe.config
+C:\Users\afgm9\OneDrive\Escritorio\TRIM 2\Programación\1\1\bin\Release\1.exe
+C:\Users\afgm9\OneDrive\Escritorio\TRIM 2\Programación\1\1\bin\Release\1.pdb
+C:\Users\afgm9\OneDrive\Escritorio\TRIM 2\Programación\1\1\obj\Release\1.csproj.CoreCompileInputs.cache
+C:\Users\afgm9\OneDrive\Escritorio\TRIM 2\Programación\1\1\obj\Release\1.exe
+C:\Users\afgm9\OneDrive\Escritorio\TRIM 2\Programación\1\1\obj\Release\1.pdb
